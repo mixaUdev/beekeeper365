@@ -1,7 +1,7 @@
 # beekeeper365
 
 
-## PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
+## PRIVACY POLICY 
 
 This privacy policy governs your use of the software application Beekeeper365 (“Application”) for mobile devices that was created by shop-construct.de. The Application is Intelligent and simple stick management for amateur beekeepers and professionals
 
